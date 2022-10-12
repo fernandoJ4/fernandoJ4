@@ -8,8 +8,8 @@
     px = 0
     py = 0
 
-    vx = 5
-    vy = 5
+    vx = 6
+    vy = 6
 
 
     radius=30
