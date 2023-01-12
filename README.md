@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fernandoJ4
-- 👀 I’m interested in Fortnite.
-- 🌱 I’m currently learning to do the griddy.
-- 💞️ I’m looking to collaborate with Felipe Banegas.
-- 📫 How to reach me: twitch.tv/trishhplay
+- 👀 I’m interested in Football
+- 🌱 I’m currently learning to hit the griddy
+- 💞️ I’m looking to collaborate with Mbappe
+- 📫 How to reach me: P211
 
 <!---
 fernandoJ4/fernandoJ4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
